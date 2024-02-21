@@ -1,1 +1,1 @@
-.NET MAUI app
+MIAU App
