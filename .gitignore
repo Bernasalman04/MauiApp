@@ -362,3 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /MauiApp1.sln
+/testEnvironments.json
+/MauiApp1/MauiApp1.csproj
+/.gitignore
+/README.md
