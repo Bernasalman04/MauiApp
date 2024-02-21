@@ -1,1 +1,1 @@
-MIAU App
+MauiApp
